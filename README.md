@@ -1,6 +1,6 @@
 # ug-semester-6
 
-A collection of Python programs and resources for UG Semester 6.
+Sharing moments of my 6th semester.
 
 ## Repository Structure
 
