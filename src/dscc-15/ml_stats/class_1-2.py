@@ -12,7 +12,7 @@ x = "Rohan" in sixsem
 print(x)
 
 # BUG Error
-# sixsem.append(["X", "Y"])
+sixsem.append(["X", "Y"])
 sixsem.extend(["X", "XY"])
 del sixsem[0]
 
