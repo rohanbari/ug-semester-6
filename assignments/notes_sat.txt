@@ -1,0 +1,31 @@
+Software requirement and specification:
+	Requirement principles and its analysis; specification principles
+	and its representation; software design analysis - difference
+	levels of DFD designs; physical and logical DFDs; use and
+	conversion between them; decision table and trees; structure
+	analysis; coupling and cohesion of different modules; software
+	cost estimation modeling; COCOMO; Software quality assurance;
+
+Requirement principles:
+	Elicitation, analysis, documentation, and review.
+
+Types: Known, unknown, and undreamt requirement.
+
+Functional vs Non Functional requirements.
+User vs system requirements.
+Interface specification. Procedure. Data structure. Representation of data.
+Feasibility study. Purpose. BHISON!!! Vision
+
+Selection of stakeholders. Types of questions.
+
+Requirement -> Draw the context -> Develop prototype -> Model prototype -> Finalize the requirements.
+
+DFD (1:1, M:1, 1:M, M:M) Data Flow Diagram
+
+0L, 1L, 2L
+
+Data dictionary. DD.
+
+ER Diagram.
+
+NEXT: Organization of SRS
