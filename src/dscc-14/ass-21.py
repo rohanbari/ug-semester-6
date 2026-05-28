@@ -1,7 +1,7 @@
 def main():
     try:
         # Open file
-        file = open("sample.txt", "r")
+        file = open("ass-22-res.txt", "r")
 
         content = file.read()
 
